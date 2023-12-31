@@ -7,6 +7,13 @@ title: 'UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle 
 authors:
   - Zhaojie Fang
   - Zhanghao Chen
+  - Pengxue Wei
+  - Wangting Li
+  - Shaochong Zhang
+  - Ahmed Elazab
+  - Gangyong Jia
+  - Ruiquan Ge
+  - Changmiao Wang
 
 date: '2023-10-01T00:00:00Z'
 doi: 'https://doi.org/10.1007/978-3-031-43990-2_70'
