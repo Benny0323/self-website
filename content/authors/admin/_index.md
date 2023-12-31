@@ -119,5 +119,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cheung-how Chan is a thrid-year undergraduate student studying computer science at the HDU-ITMO Joint Institute(https://joint.hdu.edu.cn/main.htm) where I am advised by Ruiquan Ge and Changmiao Wang.
+
+I have a broad interest in deep learning models, with a primary focus on medical image analysis currently.
+
+I am also an enthusiastic self-learner and interested in various fields of computer science.
 {style="text-align: justify;"}
