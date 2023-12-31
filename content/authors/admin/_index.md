@@ -23,9 +23,6 @@ organizations:
   - name: Hangzhou Dianzi University
     url: https://www.hdu.edu.cn/main.htm
 
-# Short bio (displayed in user profile at end of posts)
-About me: My research interests include distributed robotics, mobile computing and programmable matter.
-
 # Interests to show in About widget
 interests:
   - Computer Vision
