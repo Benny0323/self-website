@@ -65,7 +65,8 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+          - preprint
+        exclude_featured: False
     design:
       columns: '2'
       view: citation
