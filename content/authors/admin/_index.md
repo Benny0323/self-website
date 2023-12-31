@@ -27,7 +27,6 @@ organizations:
 interests:
   - Computer Vision
   - Medical Image Analysis
-  - Image Processing
 
 # Education to show in About widget
 education:
