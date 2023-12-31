@@ -47,6 +47,7 @@ url_code: 'https://github.com/Tinysqua/UWAT-GAN'
 url_poster: ''
 url_slides: ''
 url_video: 'https://youtube.com'
+url_supplementray: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
