@@ -44,14 +44,6 @@ sections:
       username: admin
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -77,4 +69,13 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
 ---
