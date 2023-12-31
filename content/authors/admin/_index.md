@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate at Hangzhou Dianzi University
+role: Undergraduate of Computer Science and Technology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hangzhou Dianzi University
