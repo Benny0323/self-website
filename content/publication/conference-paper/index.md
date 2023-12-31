@@ -6,7 +6,7 @@ title: 'UWAT-GAN: Fundus Fluorescein Angiography Synthesis via Ultra-wide-angle 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Zhaojie Fang
-  - Zhanghao Chen
+  - admin
   - Pengxue Wei
   - Wangting Li
   - Shaochong Zhang
