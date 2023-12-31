@@ -1,9 +1,19 @@
 ---
 title: "BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images"
-
 authors:
 - admin
-# date: "20-04-07T00:00:00Z"
+- Yifei Sun
+- Wenjian Qin
+- Ruiquan Ge
+- Cheng Pan
+- Wenming Deng
+- Zhou Liu
+- Wenwen Min
+- Ahmed Elazab
+- Xiang Wan
+- Changmiao Wang
+
+# date: "2019-04-07T00:00:00Z"
 doi: ""
 
 
@@ -13,20 +23,17 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: *arxiv perprint*
+publication: "arvix preprint"
+publication_short: "arvix preprint"
 
 abstract: Chest X-rays (CXRs) are commonly utilized as a low-dose modality for lung screening. Nonetheless, the efficacy of CXRs is somewhat impeded, given that approximately 75% of the lung area overlaps with bone, which in turn hampers the detection and diagnosis of diseases. As a remedial measure, bone suppression techniques have been introduced. The current dual-energy subtraction imaging technique in the clinic requires costly equipment and subjects being exposed to high radiation. To circumvent these issues, deep learning-based image generation algorithms have been proposed. However, existing methods fall short in terms of producing high-quality images and capturing texture details, particularly with pulmonary vessels. To address these issues, this paper proposes a new bone suppression framework, termed BS-Diff, that comprises a conditional diffusion model equipped with a U-Net architecture and a simple enhancement module to incorporate an autoencoder. Our proposed network cannot only generate soft tissue images with a high bone suppression rate but also possesses the capability to capture fine image details. Additionally, we compiled the largest dataset since 2010, including data from 120 patients with high-definition, high-resolution paired CXRs and soft tissue images collected by our affiliated hospital. Extensive experiments, comparative analyses, ablation studies, and clinical evaluations indicate that the proposed BS-Diff outperforms several bone-suppression models across multiple metrics.
 
 # Summary. An optional shortened abstract.
-summary: We propose a new bone suppression framework called BS-Diff, which utilizes a conditional diffusion model and a U-Net architecture to generate high-quality soft tissue images with high bone suppression rates. 
+summary: We propose a new bone suppression framework called BS-Diff, which utilizes a conditional diffusion model and a U-Net architecture to generate high-quality soft tissue images with high bone suppression rates.
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
-links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://arxiv.org/abs/2311.15328
 url_code: 'https://github.com/Benny0323/BS-Diff'
 
@@ -48,4 +55,3 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 ---
-
