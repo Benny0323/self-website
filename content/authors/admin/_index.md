@@ -1,12 +1,9 @@
 ---
 # Display name
-title: 陈章昊
-
-# Name pronunciation (optional)
-name_pronunciation: Chan Cheung-how
+title: Zhanghao Chen
 
 # Full name (for SEO)
-first_name: Cheung-how
+first_name: Zhanghao
 last_name: Chen
 
 # Status emoji
