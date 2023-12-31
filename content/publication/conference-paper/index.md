@@ -20,19 +20,7 @@ publication_types: ['paper-conference']
 # Publication name and optional abbreviated publication name.
 publication: In *MICCAI 2023*
 
-abstract: Fundus photography is an essential examination for clinical
-and differential diagnosis of fundus diseases. Recently, Ultra-Wide-angle
-Fundus (UWF) techniques, UWF Fluorescein Angiography (UWF-FA)
-and UWF Scanning Laser Ophthalmoscopy (UWF-SLO) have been gradually put into use. However, Fluorescein Angiography (FA) and UWF-FA
-require injecting sodium fluorescein which may have detrimental influences. To avoid negative impacts, cross-modality medical image generation algorithms have been proposed. Nevertheless, current methods in
-fundus imaging could not produce high-resolution images and are unable
-to capture tiny vascular lesion areas. This paper proposes a novel conditional generative adversarial network (UWAT-GAN) to synthesize UWFFA from UWF-SLO. Using multi-scale generators and a fusion module
-patch to better extract global and local information, our model can generate high-resolution images. Moreover, an attention transmit module is
-proposed to help the decoder learn effectively. Besides, a supervised approach is used to train the network using multiple new weighted losses on
-different scales of data. Experiments on an in-house UWF image dataset
-demonstrate the superiority of the UWAT-GAN over the state-of-the-art
-methods. The source code is available at: https://github.com/Tinysqua/
-UWAT-GAN.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
