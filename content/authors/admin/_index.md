@@ -3,7 +3,7 @@
 title: 陈章昊
 
 # Name pronunciation (optional)
-name_pronunciation: Cheung-how Chan
+name_pronunciation: Chan Cheung-how
 
 # Full name (for SEO)
 first_name: Cheung-how
@@ -28,9 +28,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Medical Image Analysis
+  - Low-level Programming
 
 # Education to show in About widget
 education:
