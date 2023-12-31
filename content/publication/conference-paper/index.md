@@ -45,6 +45,7 @@ featured: true
 url_pdf: ''
 url_code: 'https://github.com/Tinysqua/UWAT-GAN'
 url_poster: 'https://github.com/Benny0323/UWAT-GAN/blob/main/MICCAI_2023_Poster.pdf'
+url_poster: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
