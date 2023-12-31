@@ -2,17 +2,7 @@
 title: "BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images"
 
 authors:
-  - admin
-  - Yifei Sun
-  - Wenjian Qin
-  - Ruiquan Ge
-  - Cheng Pan
-  - Wenming Deng
-  - Zhou Liu
-  - Wenwen Min
-  - Ahmed Elazab
-  - Xiang Wan
-  - Changmiao Wang
+- admin
 # date: "20-04-07T00:00:00Z"
 doi: ""
 
@@ -39,12 +29,6 @@ links:
   url: http://example.org
 url_pdf: https://arxiv.org/abs/2311.15328
 url_code: 'https://github.com/Benny0323/BS-Diff'
-url_dataset: '#'
-url_poster: '#'
-url_project: '#'
-url_slides: '#'
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
