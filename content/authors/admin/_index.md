@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-Cheung-how Chan is a thrid-year undergraduate student studying computer science at [HDU-ITMO Joint Institute](https://joint.hdu.edu.cn/main.htm) where I am advised by [Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Changmiao Wang](https://www.sribd.cn/teacher/505).
+Cheung-how Chan is a thrid-year undergraduate student studying computer science at [HDU-ITMO Joint Institute](https://joint.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505).
 I have a broad interest in deep learning models, with a primary focus on medical image analysis currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science.
 {style="text-align: justify;"}
