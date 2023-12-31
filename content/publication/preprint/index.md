@@ -1,17 +1,18 @@
 ---
 title: "BS-Diff: Effective Bone Suppression Using Conditional Diffusion Models from Chest X-Ray Images"
+
 authors:
-- admin
-- Yifei Sun
-- Wenjian Qin
-- Ruiquan Ge
-- Cheng Pan
-- Wenming Deng
-- Zhou Liu
-- Wenwen Min
-- Ahmed Elazab
-- Xiang Wan
-- Changmiao Wang
+  - admin
+  - Yifei Sun
+  - Wenjian Qin
+  - Ruiquan Ge
+  - Cheng Pan
+  - Wenming Deng
+  - Zhou Liu
+  - Wenwen Min
+  - Ahmed Elazab
+  - Xiang Wan
+  - Changmiao Wang
 # date: "20-04-07T00:00:00Z"
 doi: ""
 
