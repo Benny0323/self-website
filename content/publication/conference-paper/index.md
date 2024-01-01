@@ -17,6 +17,8 @@ authors:
 
 date: '2023-10-01T00:00:00Z'
 doi: 'https://doi.org/10.1007/978-3-031-43990-2_70'
+appendix: 'https://drive.google.com/file/d/121e5AR0qzqzKpdttEEUZZzWPi5fI7_kz/view?usp=sharing'
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -47,8 +49,6 @@ url_code: 'https://github.com/Tinysqua/UWAT-GAN'
 url_poster: 'https://drive.google.com/file/d/1Yq8IqlpCkR1D3OT4esP_XjrdROfmJ-DU/view?usp=sharing'
 url_video: 'https://drive.google.com/file/d/1wjcBl1o1jraU4p8dODYVbjYO_Fwehf4o/view?usp=sharing'
 url_slides: 'https://docs.google.com/presentation/d/1Cx6SfoetjgjTh7Kr15fNEFZw6UOCDsl8/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true'
-url_app: 'https://drive.google.com/file/d/121e5AR0qzqzKpdttEEUZZzWPi5fI7_kz/view?usp=sharing'
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
