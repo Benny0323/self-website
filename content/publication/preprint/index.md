@@ -34,7 +34,7 @@ summary: We propose a new bone suppression framework called BS-Diff, which utili
 tags: []
 featured: false
 
-url_pdf: https://arxiv.org/abs/2311.15328
+url_pdf: https://arxiv.org/pdf/2311.15328.pdf
 url_code: 'https://github.com/Benny0323/BS-Diff'
 
 # Featured image
