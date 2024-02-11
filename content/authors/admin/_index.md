@@ -38,7 +38,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:czh345068@gmail.com"
+    link: "czh345068@gmail.com"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/czh345068
