@@ -16,9 +16,9 @@ organizations:
   - name: Hangzhou Dianzi University
     url: https://www.hdu.edu.cn/main.htm
 # Contact
-contact:
-  - type: Email
-    value: "<a href='mailto:czh345068@gmail.com'>czh345068@gmail.com</a>"
+{{ with .Site.Params.contact }}
+  <a href="mailto:{{ .email }}">{{ .email }}</a>
+{{ end }}
 # Interests to show in About widget
 interests:
   - Computer Vision
