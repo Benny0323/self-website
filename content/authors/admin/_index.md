@@ -6,6 +6,8 @@ title: Zhanghao Chen
 first_name: Zhanghao
 last_name: Chen
 
+# Email
+email:bennychan@hdu.edu.cn
 # Status emoji
 status:
   icon: ☕️
