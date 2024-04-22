@@ -32,8 +32,9 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: "mailto:czh345068@gmail.com"
+    <a href="mailto:czh345068@gmail.com" class="fas fa-envelope">Email Me</a>
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/czh345068
