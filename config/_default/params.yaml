@@ -100,11 +100,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-    
-  params:
-    contact:
-      email: "czh345068@gmail.com"
-
+  
 # Extensions
 
 extensions:
