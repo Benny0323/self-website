@@ -13,11 +13,11 @@ superuser: true
 
 # Role/position/tagline
 role: Undergraduate
-email: bennychan [at] hdu.edu.cn
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hangzhou Dianzi University
     url: https://www.hdu.edu.cn/main.htm
+  - email: bennychan [at] hdu.edu.cn
 
 # Interests to show in About widget
 interests:
