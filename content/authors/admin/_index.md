@@ -6,8 +6,7 @@ title: Zhanghao Chen
 first_name: Zhanghao
 last_name: Chen
 # Status emoji
-status:
-  icon: ☕️
+email: bennychan [at] hdu.edu.cn
 # Is this the primary user of the site?
 superuser: true
 
@@ -17,8 +16,6 @@ role: Undergraduate
 organizations:
   - name: Hangzhou Dianzi University
     url: https://www.hdu.edu.cn/main.htm
-  - email: bennychan [at] hdu.edu.cn
-
 # Interests to show in About widget
 interests:
   - Computer Vision
