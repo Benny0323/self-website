@@ -15,8 +15,10 @@ role: Undergraduate
 organizations:
   - name: Hangzhou Dianzi University
     url: https://www.hdu.edu.cn/main.htm
-    
-email: czh345068@gmail.com
+# Contact
+contact:
+  - type: Email
+    value: "<a href='mailto:czh345068@gmail.com'>czh345068@gmail.com</a>"
 # Interests to show in About widget
 interests:
   - Computer Vision
