@@ -75,7 +75,7 @@ features:
     branch: main
   avatar:
     gravatar: False
-    shape: circle
+    shape: square
     height: 200
   comment:
     provider: ''
