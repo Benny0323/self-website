@@ -5,7 +5,7 @@ title: Zhanghao Chen
 # Full name (for SEO)
 first_name: Zhanghao
 last_name: Chen
-bennychan [at] hdu.edu.cn
+bennychan@hdu.edu.cn
 # Status emoji
 status:
   icon: ☕️
