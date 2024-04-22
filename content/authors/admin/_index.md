@@ -34,7 +34,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:czh345068@gmail.com"
-    <a href="mailto:czh345068@gmail.com" class="fas fa-envelope">Email Me</a>
+    <a href="mailto:czh345068@gmail.com">Email Me</a>
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/czh345068
