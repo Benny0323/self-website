@@ -73,7 +73,7 @@ sections:
 
   - block: markdown
     content:
-      title: Gallery taken from 2023 to 2024
+      title: Gallery taken from 2023 to 2024 by Me
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
