@@ -5,8 +5,7 @@ title: Zhanghao Chen
 # Full name (for SEO)
 first_name: Zhanghao
 last_name: Chen
-# Status emoji
-email: bennychan [at] hdu.edu.cn
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -33,7 +32,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fab
     link: "mailto:czh345068@gmail.com"
   - icon: twitter
     icon_pack: fab
