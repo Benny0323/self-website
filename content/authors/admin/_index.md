@@ -9,7 +9,7 @@ last_name: Chen
 # Status emoji
 status:
   icon: ☕️
-
+bennychan@hdu.edu.cn
 # Is this the primary user of the site?
 superuser: true
 
