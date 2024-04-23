@@ -32,7 +32,7 @@ abstract: Chest X-rays (CXRs) are commonly utilized as a low-dose modality for l
 summary: We propose a new bone suppression framework called BS-Diff, which utilizes a conditional diffusion model and a U-Net architecture to generate high-quality soft tissue images with high bone suppression rates.
 
 tags: []
-featured: false
+featured: true
 
 url_pdf: https://arxiv.org/pdf/2311.15328.pdf
 url_code: 'https://github.com/Benny0323/BS-Diff'
