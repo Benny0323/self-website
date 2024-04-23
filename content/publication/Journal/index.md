@@ -15,7 +15,6 @@ authors:
 date: "2024-4-23T00:00:00Z"
 doi: ""
 
-
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
