@@ -24,6 +24,7 @@ publication_types: ["Journal"]
 publication: In *IEEE JBHI*
 publication_short: In *IEEE JBHI*
 
+# Abstract.
 abstract: Fundus photography, in combination with the ultra-wide-angle fundus (UWF) techniques, becomes an indispensable diagnostic tool in clinical settings by offering a more comprehensive view of the retina. Nonetheless, UWF fluorescein angiography (UWF-FA) necessitates the
 administration of a fluorescent dye via injection into the patient’s hand or elbow unlike UWF scanning laser ophthalmoscopy (UWF-SLO). To mitigate potential adverse effects associated with injections, researchers have proposed the development of cross-modality medical image generation
 algorithms capable of converting UWF-SLO images into their UWF-FA counterparts. Current image generation techniques applied to fundus photography encounter difficulties in producing high-resolution retinal images, particularly in capturing minute vascular lesions. To address these
