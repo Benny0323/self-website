@@ -12,7 +12,7 @@ authors:
 - Shaochong Zhang
 - Changmiao Wang
 
-date: "2024-4-23T00:00:00Z"
+date: "2024-04-23T00:00:00Z"
 doi: ""
 
 # Publication type.
