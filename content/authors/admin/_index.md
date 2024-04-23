@@ -32,18 +32,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: github
+    icon_pack: fab
+    link: https://github.com/Benny0323
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/czh345068
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/Benny0323
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
