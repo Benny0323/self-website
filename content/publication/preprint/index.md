@@ -36,7 +36,7 @@ featured: true
 
 url_pdf: https://arxiv.org/pdf/2311.15328.pdf
 url_code: 'https://github.com/Benny0323/BS-Diff'
-
+url_slides: 'https://docs.google.com/presentation/d/1hmLGLkKM-uNSiIpNG__5Yjh1dJ-UAsHv/edit?usp=sharing&ouid=107677953599522928486&rtpof=true&sd=true'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
