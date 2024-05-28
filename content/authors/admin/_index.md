@@ -18,8 +18,9 @@ organizations:
 # Contact
 # Interests to show in About widget
 interests:
-  - Computer Vision
+  - Low-level vision task
   - Medical Image Analysis
+  - Object detection
 
 # Education to show in About widget
 education:
@@ -56,7 +57,7 @@ highlight_name: true
 ---
 
 I am a thrid-year undergraduate student studying computer science at [HDU-ITMO Joint Institute](https://joint.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505).
-I have a broad interest in deep learning models, with a primary focus on medical image analysis currently.
+I have a broad interest in deep learning models, with a primary focus on medical image analysis, low-level vision task and object detection currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
 Contact me: bennychan@hdu.edu.cn.
