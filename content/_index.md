@@ -31,14 +31,12 @@ sections:
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-        
-<!-- Move JavaScript code here -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff&w=a"></script>
     design:
       background:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
   - block: about.biography
     id: about
     content:
@@ -47,6 +45,7 @@ sections:
       username: admin
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
+
   - block: collection
     id: featured
     content:
@@ -58,6 +57,7 @@ sections:
     design:
       columns: '2'
       view: card
+
   - block: collection
     content:
       title: Recent Publications
@@ -82,5 +82,9 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+
   - block: markdown
+    content: | 
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff&w=a"></script>
+      <a href="https://clustrmaps.com/site/1bzwf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff" /></a>
 --- 
