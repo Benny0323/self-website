@@ -83,7 +83,7 @@ sections:
     design:
       columns: '1'
 
- - block: markdown
+  - block: markdown
     content: | 
       <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff&w=a"></script>
 --- 
