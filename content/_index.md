@@ -32,6 +32,7 @@ sections:
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff&w=a"></script>
+        <a href="https://clustrmaps.com/site/1bzwf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff" /></a>
     design:
       background:
         gradient_end: '#1976d2'
