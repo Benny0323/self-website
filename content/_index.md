@@ -79,5 +79,4 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-    <a href="https://clustrmaps.com/site/1bzwf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QPDn4dHlKQZuvOlaFeL8fQsZk7RKWvQYL9w2xyCB0gA&cl=ffffff" /></a>
 ---
