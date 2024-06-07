@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.S. in Computer Science
+    - course: B.E. in Computer Science
       institution: Hangzhou Dianzi University
       year: 2021 - present
 # Social/Academic Networking
