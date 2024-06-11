@@ -32,7 +32,7 @@ summary: This paper is an enhanced version of our previous method UWAT-GAN. It c
 tags: []
 featured: false
 
-# url_pdf: https://arxiv.org/pdf/2311.15328.pdf
+url_pdf: https://ieeexplore.ieee.org/document/10509705
 url_code: 'https://github.com/Tinysqua/UWAFA-GAN'
 
 # Featured image
