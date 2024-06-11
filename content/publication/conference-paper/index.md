@@ -26,8 +26,8 @@ appendix: 'https://drive.google.com/file/d/121e5AR0qzqzKpdttEEUZZzWPi5fI7_kz/vie
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *MICCAI 2023 (Early accept)*
-publication_short: In *MICCAI 2023 (Early accept)*
+publication: In *MICCAI 2023 (Early Accept)*
+publication_short: In *MICCAI 2023 (Early Accept)*
 
 Abstract: Fundus photography is an essential examination for clinical and differential diagnosis of fundus diseases. Recently, Ultra-Wide-angle Fundus (UWF) techniques, UWF Fluorescein Angiography (UWF-FA), and UWF Scanning Laser Ophthalmoscopy (UWF-SLO) have been gradually put into use. However, Fluorescein Angiography (FA) and UWF-FA require injecting sodium fluorescein which may have detrimental influences. To avoid negative impacts, cross-modality medical image generation algorithms have been proposed. Nevertheless, current methods in fundus imaging cannot produce high-resolution images and are unable to capture tiny vascular lesion areas. This paper proposes a novel conditional generative adversarial network (UWAT-GAN) to synthesize UWF-FA from UWF-SLO. Using multi-scale generators and a fusion module patch to better extract global and local information, our model can generate high-resolution images. Moreover, an attention transmit module is proposed to help the decoder learn effectively. Besides, a supervised approach is used to train the network using multiple new weighted losses on different scales of data. Experiments on an in-house UWF image dataset demonstrate the superiority of the UWAT-GAN over the state-of-the-art methods.
 
