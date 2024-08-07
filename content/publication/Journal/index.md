@@ -13,7 +13,7 @@ authors:
 - Changmiao Wang
 
 date: "2024-04-23T00:00:00Z"
-doi: ""
+doi: "10.1109/JBHI.2024.3394597"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
