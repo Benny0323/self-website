@@ -55,7 +55,7 @@ social:
 highlight_name: true
 ---
 
-I am a thrid-year undergraduate student studying computer science at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505).
+I am a thrid-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505).
 I have a broad interest in deep learning models, with a primary focus on medical image analysis and low-level vision task currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
