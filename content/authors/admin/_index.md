@@ -18,8 +18,8 @@ organizations:
 # Contact
 # Interests to show in About widget
 interests:
-  - Low-level vision task
   - Medical Image Analysis
+  - Low-level vision task
 
 # Education to show in About widget
 education:
