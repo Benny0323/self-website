@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
   - Medical Image Analysis
-  - Low-level vision task
+  - Low-level Vision Task
 
 # Education to show in About widget
 education:
