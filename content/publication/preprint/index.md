@@ -14,7 +14,7 @@ authors:
 - Changmiao Wang
 
 date: "2024-05-31T00:00:00Z"
-doi: ""
+doi: "10.1109/ISBI56570.2024.10635371"
 
 
 # Publication type.
@@ -34,7 +34,7 @@ summary: We propose a new bone suppression framework called BS-Diff, which utili
 tags: []
 featured: true
 
-url_pdf: https://arxiv.org/pdf/2311.15328.pdf
+url_pdf: https://ieeexplore.ieee.org/document/10635371
 url_code: 'https://github.com/Benny0323/BS-Diff'
 url_slides: 'https://drive.google.com/file/d/1q1gYVejvYTlGjnInZZoVD48CKFjaGkok/view?usp=sharing'
 # Featured image
