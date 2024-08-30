@@ -42,7 +42,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/czh345068
     label: Follow me on Twitter
-- icon: Ins
+  - icon: Ins
     icon_pack: fab
     link: https://www.instagram.com/bennychancheungho/
     display:
