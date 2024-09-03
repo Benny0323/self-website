@@ -10,7 +10,7 @@ last_name: Chen
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate
+role: Undergraduate, CCF Student Member
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hangzhou Dianzi University
