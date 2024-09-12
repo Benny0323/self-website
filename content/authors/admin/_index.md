@@ -24,9 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.E. in Computer Science
+    - course: B.E. in Computer Science And Technology
       institution: Hangzhou Dianzi University
       year: 2021 - present
+    - course: M.S. in Computer Science
+      institution: Upcoming
+      year: 2025 - 2028
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
