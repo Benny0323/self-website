@@ -26,7 +26,7 @@ education:
   courses:
     - course: B.E. in Computer Science And Technology
       institution: Hangzhou Dianzi University
-      year: 2021 - present
+      year: 2021 - 2025
     - course: M.S. in Computer Science
       institution: Upcoming
       year: 2025 - 2028
