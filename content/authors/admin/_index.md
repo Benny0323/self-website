@@ -20,7 +20,7 @@ organizations:
 # Contact
 # Interests to show in About widget
 interests:
-  - Medical Image Analysis (specialized in AIGC and multimodel large model)
+  - Medical Image Analysis (specialized in AIGC and large models)
 
 # Education to show in About widget
 education:
@@ -63,7 +63,7 @@ highlight_name: true
 ---
 
 I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree in [Southeast University](https://www.seu.edu.cn) advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm).
-I have a broad interest in deep learning models, with a primary focus on medical image analysis specialized in AIGC and multimodel large model currently.
+I have a broad interest in deep learning models, with a primary focus on medical image analysis specialized in AIGC and large models currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
 Contact me: bennychan@hdu.edu.cn.
