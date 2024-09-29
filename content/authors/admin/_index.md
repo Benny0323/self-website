@@ -15,6 +15,8 @@ role: Undergraduate, CCF Student Member
 organizations:
   - name: Hangzhou Dianzi University
     url: https://www.hdu.edu.cn/main.htm
+  - name: Southeast University
+    url: https://www.seu.edu.cn
 # Contact
 # Interests to show in About widget
 interests:
