@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.E. in Computer Science
-      institution: Hangzhou Dianzi University
-      year: 2021 - 2025
     - course: M.S. in Computer Science
       institution: Southeast University
-      year: 2025 - 2028
+      year: 2025 - 2028 (planned)
+    - course: B.E. in Computer Science
+      institution: Hangzhou Dianzi University
+      year: Sept 2021 - June 2025
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
