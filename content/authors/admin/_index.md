@@ -69,5 +69,5 @@ And I plan to pursue my master's degree at [Southeast University](https://www.se
 I have a broad interest in deep learning models, with a primary focus on medical image analysis specialized in AIGC and large models currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
-Contact me: bennychan [at] hdu.edu.cn.
+Contact me: bennychan@hdu.edu.cn.
 {style="text-align: justify;"}
