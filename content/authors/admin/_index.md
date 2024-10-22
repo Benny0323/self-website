@@ -20,7 +20,7 @@ organizations:
 # Contact
 # Interests to show in About widget
 interests:
-  - Medical Image Analysis (specialized in AIGC and large models)
+  - Medical Image Analysis (specialized in Diffusion Model-Based CT Construction & Generation)
 
 # Education to show in About widget
 education:
