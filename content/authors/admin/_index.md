@@ -21,17 +21,22 @@ organizations:
 # Interests to show in About widget
 interests:
   - AIGC and multimodal large models in medical image analysis 
-  - Lenovo Research, Nov 2024 to Feb 2025, Tian Jin (Internship)
 
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Computer Science
-      institution: Southeast University
-      year: 2025 - 2028
-    - course: B.E. in Computer Science
-      institution: Hangzhou Dianzi University
-      year: 2021 - 2025
+    - course: Southeast University
+      institution: M.S. in Computer Science
+      year: Sep 2025 - Jun 2028
+    - course: Hangzhou Dianzi University
+      institution: B.E. in Computer Science
+      year: Sep 2021 - Jun 2025
+
+experience:
+  courses:
+  - course: Lenovo Research Computer Vision Team
+  - institution: Research Intern
+  - year: Oct 2024 - Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
