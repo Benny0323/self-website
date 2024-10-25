@@ -28,7 +28,7 @@ education:
       institution: B.E. in Computer Science
       year: Sep 2021 - Jun 2025
       
-experience:
+interests:
   courses:
   - course: Lenovo Research Computer Vision Team
     institution: Research Intern
