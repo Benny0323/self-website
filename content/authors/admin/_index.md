@@ -20,7 +20,8 @@ organizations:
 # Contact
 # Interests to show in About widget
 interests:
-  - Lenovo Research, Nov 2024 to Feb 2025, Tian Jin
+  - AIGC and multimodal large models in medical image analysis 
+  - Lenovo Research, Nov 2024 to Feb 2025, Tian Jin (Internship)
 
 # Education to show in About widget
 education:
