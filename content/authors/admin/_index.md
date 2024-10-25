@@ -19,7 +19,7 @@ organizations:
     url: https://www.seu.edu.cn
 # Contact
 # Interests to show in About widget
-internship:
+interests:
   - Lenovo Research, Nov 2024 to Feb 2025, Tian Jin
 
 # Education to show in About widget
