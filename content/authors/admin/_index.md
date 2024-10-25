@@ -18,10 +18,6 @@ organizations:
   - name: Southeast University
     url: https://www.seu.edu.cn
 # Contact
-# Interests to show in About widget
-interests:
-  - AIGC and multimodal large models in medical image analysis 
-
 # Education to show in About widget
 education:
   courses:
@@ -31,12 +27,12 @@ education:
     - course: Hangzhou Dianzi University
       institution: B.E. in Computer Science
       year: Sep 2021 - Jun 2025
-
+      
 experience:
   courses:
   - course: Lenovo Research Computer Vision Team
-  - institution: Research Intern
-  - year: Oct 2024 - Present
+    institution: Research Intern
+    year: Oct 2024 - Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,9 +64,7 @@ social:
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). 
-
-And I plan to pursue my master's degree at [Southeast University](https://www.seu.edu.cn) advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm).
+I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at [Southeast University](https://www.seu.edu.cn) advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm).
 
 I have a broad interest in deep learning models, with a primary focus on **medical image analysis specialized in Diffusion Model-Based CT Construction & Generation(Multimodal Generation) & Augmentation** currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science. 
