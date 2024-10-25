@@ -31,6 +31,8 @@ education:
     - course: B.E. in Computer Science
       institution: Hangzhou Dianzi University
       year: 2021 - 2025
+      
+# Internship to show in About widget
 internship:
   - Lenovo Research, Nov 2024 to Feb 2025
 # Social/Academic Networking
