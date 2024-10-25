@@ -66,7 +66,7 @@ I am a fourth-year undergraduate student studying computer science and technolog
 
 And I plan to pursue my master's degree at [Southeast University](https://www.seu.edu.cn) advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm).
 
-I have a broad interest in deep learning models, with a primary focus on medical image analysis specialized in Diffusion Model-Based CT Construction & Generation(Multimodal Generation) & Augmentation currently.
+I have a broad interest in deep learning models, with a primary focus on **medical image analysis specialized in Diffusion Model-Based CT Construction & Generation(Multimodal Generation) & Augmentation** currently.
 I am also an enthusiastic self-learner and interested in various fields of computer science. 
 
 Contact me: bennychan@hdu.edu.cn.
