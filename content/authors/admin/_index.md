@@ -29,7 +29,6 @@ education:
       year: Sep 2021 - Jun 2025
       
 interests:
-  courses:
   - course: Lenovo Research Computer Vision Team
     institution: Research Intern
     year: Oct 2024 - Present
