@@ -29,7 +29,7 @@ education:
       year: Sep 2021 - Jun 2025
       
 interests:
-  - Lenovo Research Computer Vision Team, Research Intern, Oct 2024 - Present
+  - Lenovo Research PCIE Team, Research Intern, Oct 2024 - Present, Tianjin
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
