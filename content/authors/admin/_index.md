@@ -29,7 +29,7 @@ education:
       year: Sep 2021 - Jun 2025
       
 interests:
-  - Hikvision Research Institute, Research Intern, Nov 2024 - Present, Hangzhou
+  - [Hikvision Research](https://www.hikvision.com/cn/) Institute, Research Intern, Nov 2024 - Present, Hangzhou
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
