@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2307.11530'
 url_code: 'https://github.com/Tinysqua/UWAT-GAN'
 url_poster: 'https://drive.google.com/file/d/1Yq8IqlpCkR1D3OT4esP_XjrdROfmJ-DU/view?usp=sharing'
 url_video: 'https://drive.google.com/file/d/1wjcBl1o1jraU4p8dODYVbjYO_Fwehf4o/view?usp=sharing'
