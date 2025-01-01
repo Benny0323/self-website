@@ -76,7 +76,7 @@ sections:
 
   - block: markdown
     content:
-      title: My Best-loved Photos Taken From 2023 to 2025
+      title: My Best-loved Photos Taken From 2024 to 2025
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
