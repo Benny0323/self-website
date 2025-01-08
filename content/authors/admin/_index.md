@@ -61,7 +61,7 @@ social:
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm) specialized in **Diffusion Model-Based CT Metal Artifact Reduction**.
+I am a fourth-year undergraduate student studying computer science and technology at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). And I plan to pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, advised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/main.htm) specialized in **Diffusion Model-Based CT Metal Artifact Reduction (MAR)**.
 
 I have a broad interest in deep learning models, with a primary focus on medical image analysis.
 I am also an enthusiastic self-learner and interested in various fields of computer science. **Currently, I am interning at [Hikvision Research](https://www.hikvision.com/cn/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy**.
