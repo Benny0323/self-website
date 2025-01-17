@@ -20,7 +20,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *ICSIP 2023*
-publication_short: In *ICSIP 2023w*
+publication_short: In *ICSIP 2023*
 
 abstract: Orthopedic osteosarcoma is a prevalent malignant bone tumor. Preoperative planning, efficacy evaluation, and metastasis detection of osteosarcoma necessitate the use of magnetic resonance imaging (MRI). Due to the varying 10-cations, structures, sizes, and shapes of osteosarcomas among patients, as well as the high degree of tumor heterogeneity, segmenting osteosarcoma images manually presents a significant challenge for clinicians. In the meantime, the grayscale and texture features within the tumor in MRI images are not homogeneous, resulting in small grayscale differences between the tumor tissue and the surrounding normal tissue, which also presents a significant challenge for deep learning-based image segmentation methods. This paper proposes RTUNet++, a novel method for segmenting osteosarcoma MRI images. This method integrates the ResNet residual module, Transformer attention mechanism, and UNet++ Dense Skip Connection structure. We employ a CNN-Transformer hybrid architecture to prevent the loss of spatial feature data. Features with different semantic scales are aggregated at the decoder using multi-fusion dense jump connections to achieve flexible feature fusion. Consequently, in comparison experiments with various classical models, our proposed RTUNet++ achieves superior segmentation results on an osteosarcoma MRI image dataset.
 
