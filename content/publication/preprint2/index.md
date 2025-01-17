@@ -37,6 +37,7 @@ featured: true
 
 url_pdf: https://www.arxiv.org/pdf/2412.15670
 url_code: 'https://github.com/diaoquesang/BS-LDM'
+url_project: 'https://benny0323.github.io/BS-LDM/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
