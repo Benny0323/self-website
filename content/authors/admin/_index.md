@@ -22,12 +22,11 @@ organizations:
 education:
   courses:
     - course: Southeast University
-      institution: M.S. in Computer Science
+      institution: M.S. in Computer Science at school of Computer Science and Enginnering
       year: Sep 2025 - Jun 2028
     - course: Hangzhou Dianzi University
-      institution: B.E. in Computer Science
-      year: Sep 2021 - Jun 2025
-      
+      institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
+      year: Sep 2021 - Jun 2025     
 interests:
   - Hikvision Research Institute, Research Intern, Nov 2024 - Present, Hangzhou
 # Social/Academic Networking
