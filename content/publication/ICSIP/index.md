@@ -28,7 +28,7 @@ abstract: Orthopedic osteosarcoma is a prevalent malignant bone tumor. Preoperat
 summary: We propose RTUNet++, which integrates ResNet residuals, Transformer attention, and UNet++ dense skip connections for enhanced feature fusion. RTUNet++ outperforms classical models on osteosarcoma MRI datasets, demonstrating superior segmentation performance.
 
 tags: []
-featured: true
+featured: false
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/10270849
 
