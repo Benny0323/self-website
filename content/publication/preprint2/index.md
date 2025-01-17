@@ -24,8 +24,8 @@ doi: "https://doi.org/10.48550/arXiv.2412.15670"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *JBHI 2025 Under Review*
-publication_short: In *JBHI 2025 Under Review*
+publication: In *JBHI 2025 **Under Review***
+publication_short: In *JBHI 2025 **Under Review***
 
 abstract: Lung diseases represent a significant global health challenge, with Chest X-Ray (CXR) being a key diagnostic tool due to their accessibility and affordability. Nonetheless, the detection of pulmonary lesions is often hindered by overlapping bone structures in CXR images, leading to potential misdiagnoses. To address this issue, we developed an end-to-end framework called BS-LDM, designed to effectively suppress bone in high-resolution CXR images. This framework is based on conditional latent diffusion models and incorporates a multi-level hybrid loss-constrained vector-quantized generative adversarial network which is crafted for perceptual compression, ensuring the preservation of details. To further enhance the framework's performance, we introduce offset noise and a temporal adaptive thresholding strategy. These additions help minimize discrepancies in generating low-frequency information, thereby improving the clarity of the generated soft tissue images. Additionally, we have compiled a high-quality bone suppression dataset named SZCH-X-Rays. This dataset includes 818 pairs of high-resolution CXR and dual-energy subtraction soft tissue images collected from a partner hospital. Moreover, we processed 241 data pairs from the JSRT dataset into negative images, which are more commonly used in clinical practice. Our comprehensive experimental and clinical evaluations reveal that BS-LDM excels in bone suppression, underscoring its significant clinical value. Our code, pre-trained models and processed JSRT dataset are available at https://github.com/diaoquesang/BS-LDM.
 
