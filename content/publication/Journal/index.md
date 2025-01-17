@@ -30,7 +30,7 @@ Abstract: Fundus photography, in combination with the ultra-wide-angle fundus (U
 # Summary. An optional shortened abstract.
 summary: This paper is an enhanced version of our previous method UWAT-GAN. It can be used to turning UWF scanning laser ophthalmoscopy(UWF-SLO) to the UWF fluorescein angiography(UWF-FA) and display the tiny vascular lesion areas. And it could be trained on a little misalignment paired UWF-SLO and UWF-FA.
 tags: []
-featured: false
+featured: true
 
 url_pdf: https://ieeexplore.ieee.org/document/10509705
 url_code: 'https://github.com/Tinysqua/UWAFA-GAN'
