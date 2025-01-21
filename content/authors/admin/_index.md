@@ -20,9 +20,9 @@ organizations:
 # Education to show in About widget
 
 interests:
-  - Machine Learning Systems
-  - Distributed Systems
-  - Large Language Models
+  - Medical Image Analysis
+  - Generative Models
+  - Computer Vision
 
 education:
   courses:
@@ -32,9 +32,6 @@ education:
     - course: Hangzhou Dianzi University
       institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
       year: Sep 2021 - Jun 2025     
-
-experience:
-  courses:
     - course: Research Intern
       institution: Hikvision Research Institute, Hikvision, Hangzhou
       year: Nov 2024 - Present
