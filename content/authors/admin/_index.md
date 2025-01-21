@@ -27,8 +27,11 @@ education:
     - course: Hangzhou Dianzi University
       institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
       year: Sep 2021 - Jun 2025     
-interests:
-  - Hikvision Research Institute, Research Intern, Nov 2024 - Present, Hangzhou
+experience:
+  courses:
+  - course: Research Intern,
+    institution: Hikvision Research Institute, Hikvision, Hangzhou
+    year: Nov 2024 - Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
