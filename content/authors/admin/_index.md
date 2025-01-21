@@ -30,27 +30,25 @@ education:
     - course: Southeast University
       institution: M.S. in Computer Science at School of Computer Science and Engineering
       year: Sep 2025 - Jun 2028
-    - course: Hikvision Research Institute
-      institution: Research Intern
-      year: Nov 2024 - Present
-work:
-  courses:
     - course: Hangzhou Dianzi University
       institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
-      year: Sep 2021 - Jun 2025     
+      year: Sep 2021 - Jun 2025   
+work:
+  - position: Research Intern
+    company_name: Hikvision Research Institute, Hikvision
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: at-symbol
-    url: 'mailto:bennychan@hdu.edu.cn'
-    label: E-mail Me
+-   icon: envelope
+    icon_pack: fas
+    link: "mailto:bennychan@hdu.edu.cn"
   - icon: github
     icon_pack: fab
     link: https://github.com/Benny0323
-  - icon: academicons/google-scholar
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en
   - icon: twitter
     icon_pack: fab
