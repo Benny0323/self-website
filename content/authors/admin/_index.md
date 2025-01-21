@@ -17,6 +17,7 @@ organizations:
     url: https://www.hdu.edu.cn
     email: bennychan [at] hdu.edu.cn
 # Contact
+
 # Education to show in About widget
 
 interests:
@@ -32,6 +33,8 @@ education:
     - course: Hikvision Research Institute
       institution: Research Intern
       year: Nov 2024 - Present
+work:
+  courses:
     - course: Hangzhou Dianzi University
       institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
       year: Sep 2021 - Jun 2025     
@@ -40,10 +43,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: at-symbol
+    url: 'mailto:bennychan@hdu.edu.cn'
+    label: E-mail Me
   - icon: github
     icon_pack: fab
     link: https://github.com/Benny0323
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: academicons/google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=QEVTqsoAAAAJ&hl=en
   - icon: twitter
