@@ -14,7 +14,7 @@ role: Undergraduate, CCF Student Member
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hangzhou Dianzi University
-    url: https://www.hdu.edu.cn/main.htm
+    url: https://www.hdu.edu.cn
     email: bennychan [at] hdu.edu.cn
 # Contact
 # Education to show in About widget
