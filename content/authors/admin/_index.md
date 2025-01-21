@@ -20,6 +20,12 @@ organizations:
   - email: bennychan [at] hdu.edu.cn
 # Contact
 # Education to show in About widget
+
+interests:
+  - Machine Learning Systems
+  - Distributed Systems
+  - Large Language Models
+
 education:
   courses:
     - course: Southeast University
@@ -29,7 +35,6 @@ education:
       institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
       year: Sep 2021 - Jun 2025     
 
-      
 experience:
   courses:
     - course: Research Intern
