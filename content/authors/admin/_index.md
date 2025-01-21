@@ -29,9 +29,9 @@ education:
       year: Sep 2021 - Jun 2025     
 experience:
   courses:
-  - course: Research Intern,
-    institution: Hikvision Research Institute, Hikvision, Hangzhou
-    year: Nov 2024 - Present
+    - course: Research Intern
+      institution: Hikvision Research Institute, Hikvision, Hangzhou
+      year: Nov 2024 - Present
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
