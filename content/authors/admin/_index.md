@@ -17,6 +17,7 @@ organizations:
     url: https://www.hdu.edu.cn/main.htm
   - name: Southeast University
     url: https://www.seu.edu.cn
+  - email: bennychan [at] hdu.edu.cn
 # Contact
 # Education to show in About widget
 education:
@@ -27,11 +28,15 @@ education:
     - course: Hangzhou Dianzi University
       institution: B.E. in Computer Science and Technology at HDU-ITMO Joint Institute
       year: Sep 2021 - Jun 2025     
+
+      
 experience:
   courses:
     - course: Research Intern
       institution: Hikvision Research Institute, Hikvision, Hangzhou
       year: Nov 2024 - Present
+
+      
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,5 +73,4 @@ I am a fourth-year undergraduate student studying computer science and technolog
 I have a broad interest in deep learning models, with a primary focus on medical image analysis.
 I am also an enthusiastic self-learner and interested in various fields of computer science. **Currently, I am interning at [Hikvision Research](https://www.hikvision.com/cn/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy**.
 
-Contact me: bennychan@hdu.edu.cn.
 {style="text-align: justify;"}
