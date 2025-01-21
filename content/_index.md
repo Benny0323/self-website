@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Yinmin Zhong
+title: 
 date: 2023-4-20
 type: landing
 
